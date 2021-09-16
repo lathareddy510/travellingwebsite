@@ -8,11 +8,6 @@ For latest updates to this readme file, see http://www.openoffice.org/welcome/re
 
 This file contains important information about this program. Please read this information very carefully before starting work.
 
-The Apache OpenOffice Community, responsible for the development of this product, would like to invite you to participate as a community member. As a new user, you can check out the OpenOffice community site with helpful information at http://openoffice.apache.org
-
-Also read the sections below about getting involved in the Apache OpenOffice project.
-
-Is OpenOffice really free for any user? 
 ----------------------------------------------------------------------
 
 OpenOffice is free for use by everybody. You may take this copy of OpenOffice and install it on as many computers as you like, and use it for any purpose you like (including commercial, government, public administration and educational use). For further details see the license text delivered together with OpenOffice or http://www.openoffice.org/license.html
